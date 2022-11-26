@@ -1,0 +1,35 @@
+
+.cardImage{
+    height: 180px;
+
+}
+.cardBody{
+    height: 240px;
+}
+.mainCard{
+    height: 500px;
+    margin: 20px;
+    width: 300px;
+}
+.cardTitle{
+    overflow: hidden;
+    font-size:medium;
+    height:60px;
+}
+.cardText{
+    overflow: hidden;
+    font-size: small;
+    height:120px;
+    
+}
+.cardHaider{
+  overflow: hidden;
+  height: 50px;
+}
+.spinner{
+    margin-left: 50%;
+    margin-top: 200px;
+}
+.cardHaider{
+    background-color: antiquewhite;
+}
